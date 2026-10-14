@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "TISAN MOTORS — Equipamiento premium",
+      "hasCanvas": false,
+      "bodyTextLen": 2449,
+      "bodyTextHash": "c6ab45c90a67791474355065f150e194941aefc13c6369c61913908af811d470",
+      "bodyTextPrefix": "Catálogo Volantes Iluminación LED Agendar instalación Contacto T",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "TISAN MOTORS — Equipamiento premium",
+      "hasCanvas": false,
+      "bodyTextLen": 2300,
+      "bodyTextHash": "ad36b68e518c112b4a9809072caff8df39a2c62a07f4560b8329a22bcd58d8d7",
+      "bodyTextPrefix": "TISAN MOTORS Equipamiento y personalización premium para tu vehí",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
